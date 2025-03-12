@@ -13,6 +13,7 @@ If you frequently open multiple tabs for the same site and page, Duplicate-Tab-D
 
 ## File Structure
 
+```
 DUPLICATE-TAB-DETECTOR
 ├─ img
 │  └─ icon.png
@@ -25,6 +26,7 @@ DUPLICATE-TAB-DETECTOR
 │  └─ popup.html
 ├─ manifest.json
 └─ README.md
+```
 
 ## Installation
 > [!NOTE]
